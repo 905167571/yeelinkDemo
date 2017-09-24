@@ -1,0 +1,4 @@
+connect to yeelink
+2016-11-06:19-16-02
+temp : 40.1
+406
